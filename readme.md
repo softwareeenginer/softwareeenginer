@@ -16,6 +16,17 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softwareeenginer&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)    
 
+<h3> TOTAL PROJECTS </h3>
+
+• CoinTrend
+• Meta Sapien
+• Covid-19
+• Sakla
+• Mrs. Arya
+• StaffAuto
+• Military Automation
+• e-Books
+
 <p>Personal Website: <a href="http://mehmetaliyilgin.rf.gd/"> -- © by Mehmet Ali Yılgın</a> <p>
 
 
