@@ -9,9 +9,11 @@
 </p>
 
 <h3> GITHUB STATS </h3>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=softwareeenginer&show_icons=true&theme=gruvbox)
 
 <h3> TOP LANGUAGES </h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softwareeenginer&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)    
 
 <a href="http://mehmetaliyilgin.rf.gd/">© by Mehmet Ali Yılgın</a>
