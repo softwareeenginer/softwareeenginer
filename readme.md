@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softwareeenginer&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)    
 
-<h3> TOTAL PROJECTS </h3>
+<h3> TOTAL PROJECTS (28) </h3>
 
 - CoinTrend
 - Meta Sapien
