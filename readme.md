@@ -29,5 +29,11 @@
 - System Source Monitor
 
 <p>Personal Website: <a href="http://mehmetaliyilgin.rf.gd/"> -- © by Mehmet Ali Yılgın</a> <p>
+  
+[website]: https://codeSTACKr.com
+[twitter]: https://twitter.com/mehmetaliyilgin
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/mehmetaliyilginoffical/
 
 
