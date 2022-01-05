@@ -42,8 +42,8 @@
   
 [website]: http://mehmetaliyilgin.rf.gd/
 [twitter]: https://twitter.com/mehmetaliyilgin
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UCPR4ZMDfvxy2FlfPjsTjssw
+[instagram]: https://instagram.com/mehmetaliyilgin.se
 [linkedin]: https://www.linkedin.com/in/mehmetaliyilginoffical/
 
 
