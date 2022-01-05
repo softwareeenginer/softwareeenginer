@@ -30,7 +30,17 @@
 
 <p>Personal Website: <a href="http://mehmetaliyilgin.rf.gd/"> -- © by Mehmet Ali Yılgın</a> <p>
   
-[website]: https://codeSTACKr.com
+### Connect with me:
+
+[<img align="left" alt="mehmetaliyilgin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mehmetaliyilgin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="mehmetaliyilgin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mehmetaliyilgin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mehmetaliyilgin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  
+  
+  
+[website]: http://mehmetaliyilgin.rf.gd/
 [twitter]: https://twitter.com/mehmetaliyilgin
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
