@@ -20,7 +20,6 @@
 <br />
 
 
----
 
 <h3> TOTAL PROJECTS (28) </h3>
 
@@ -53,6 +52,7 @@
 [linkedin]: https://www.linkedin.com/in/mehmetaliyilginoffical/
 
 
+---
 
 <br>
 <br>
