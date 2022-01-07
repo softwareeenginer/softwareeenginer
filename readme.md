@@ -45,7 +45,7 @@
   
   
   
-[website]: http://mehmetaliyilgin.rf.gd/
+[website]: https://mehmetaliyilgin.com/
 [twitter]: https://twitter.com/mehmetaliyilgin
 [youtube]: https://www.youtube.com/channel/UCPR4ZMDfvxy2FlfPjsTjssw
 [instagram]: https://instagram.com/mehmetaliyilgin.se
