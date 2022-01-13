@@ -21,7 +21,7 @@
 
 
 
-<h3> TOTAL PROJECTS (28) </h3>
+<h3> TOTAL PROJECTS (29) </h3>
 
 - CoinTrend
 - Meta Sapien
