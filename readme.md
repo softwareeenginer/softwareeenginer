@@ -1,7 +1,7 @@
 <h1> Introduction </h1>
 
 <p>Hello! I'm twenty and I'm from Turkey. When I was a child I wanted to be a software engineer.</p>
-<p>And I'm here, now. Like other people, I went to primary, middle, and high school. At the moment I'm studying at Fırat University - Third grade.</p>
+<p>And I'm here, now. Like other people, I went to primary, middle, and high school. At the moment I'm studying at Fırat University - Fourth grade.</p>
 
 <h4>Professional life idea:</h4>
 <p>
